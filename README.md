@@ -6,9 +6,6 @@ Repository Structure
 /Code
 This directory contains IPython notebooks demonstrating the implementation of various machine learning algorithms, including SVM, LR, RF, and SGD. It has 'Final_Approach' and our 'Alternative_Approaches'.
 
-/Meeting Minutes
-Contains detailed documentation of each team meeting, including discussions, decisions made, and future plans. This ensures transparency and continuity throughout the project's lifecycle.
-
 Environment Requirements
 Ensure you have the following software installed to run the code from this repository:
 
